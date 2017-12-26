@@ -3,4 +3,4 @@ project(c___practice)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(c___practice main.cpp Person.cpp Person.h)
+add_executable(c___practice main.cpp Person.cpp Person.h Twitter.cpp Twitter.h)
